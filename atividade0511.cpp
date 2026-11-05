@@ -1,6 +1,3 @@
-// Atividade da Aula 05/11 - Sessoes de Telefonia
-// Linguagem: C++
-// Objetivo: carregar, listar e pesquisar registros de telefonia.
 
 #include <iostream>
 #include <fstream>
